@@ -4,11 +4,11 @@ Bot Line Versi Protect Group
 
 Fungsinya?
 Kelebihan :
-1.Protect Group Line Pastinya
-2.Dapat Menambah Owner,Admin/Staff Kedalam Bot
-3.Command Bisa Dipakai oleh Orang Admin
-4.Bot Tidak Saling Kick Ketika Ada Yang Terkick
-5.Jika Ingin Protect Lebih Dari 1 Group, Kalian Tidak Wajib ada di Semua Group Tersebut
+-1.Protect Group Line Pastinya
+-2.Dapat Menambah Owner,Admin/Staff Kedalam Bot
+-3.Command Bisa Dipakai oleh Orang Admin
+-4.Bot Tidak Saling Kick Ketika Ada Yang Terkick
+-5.Jika Ingin Protect Lebih Dari 1 Group, Kalian Tidak Wajib ada di Semua Group Tersebut
 
 - pkg install python -y
 - pkg install python2 -y
