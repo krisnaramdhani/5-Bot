@@ -1,5 +1,5 @@
 # 5-Bot
-=======================================
+
 Bot Line Versi Protect Group
 
 Fungsinya?
